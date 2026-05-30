@@ -37,7 +37,7 @@ An asynchronous Python/FastAPI backend designed to ingest and query complex fina
 * **Software Engineer @ Tremend Software Consulting (2025 - Present)**
   Architecting end-to-end features and modeling intricate insurance logic into distributed microservices using Domain-Driven Design (DDD) within the UK B2B insurance ecosystem.
   
-* **Software Developer @ Vitesco Technologies (2021 - 2024)**
+* **Software Developer @ Vitesco Technologies (2023 - 2025)**
   Led in-house digitalization and workflow automation projects for automotive plant operations, transitioning legacy workflows into 100% digital solutions (.NET Core, Angular, Python ETLs).
 
 * **Academic Background**
